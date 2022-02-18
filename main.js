@@ -1,6 +1,6 @@
 const APP_ID = "2f14461fbec44bac8de5a8cfe46e38f4"
-const TOKEN = "0062f14461fbec44bac8de5a8cfe46e38f4IACwSYzGoE+OktUnhwk0zY1lHkKeEBP1e7b6545Nv9ummGTNKL8AAAAAEAD1z9KPRnj1YQEAAQA7ePVh"
-const CHANNEL = "main"
+const TOKEN = "0062f14461fbec44bac8de5a8cfe46e38f4IACXl63DnwKjS4FIQuWxHx8jE13j5vc4iRgVgNBI0H/aR0jYExAAAAAAEADzxwcSLf4QYgEAAQAs/hBi"
+const CHANNEL = "apna meet"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
